@@ -1,0 +1,5 @@
+numero= input("digite el numero: ")
+numero= int(input("digite las repeticiones"))
+print("5"*50)
+print("tablas de multiplicar")
+print("10"*50)

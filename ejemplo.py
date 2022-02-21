@@ -1,0 +1,1 @@
+numero = float(input ("ingrese el numero")
